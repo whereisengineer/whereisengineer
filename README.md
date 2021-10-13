@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Software Developer at Cerner India working in C#/DotNet.
+- 👋 Hi, I’m a Software Developer working in C#/DotNet.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me -> https://twitter.com/whereisengineer
