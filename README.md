@@ -1,6 +1,5 @@
-- 👋 Hi, I’m a Software Developer working in C#/DotNet.
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML and CSS.
+- 👋 Hi, I’m a Software Developer working at Cerner.
+- 🌱 I’m currently working on web development projects.
 - 📫 How to reach me -> https://twitter.com/whereisengineer
 
 <!---
